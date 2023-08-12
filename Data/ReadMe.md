@@ -1,5 +1,5 @@
 #### Dataset_Creation.ipynb
-Takes the publicly available csv files from GZH and saves for the utilized questions the number of volunteers who selected a certain answer.
+Takes the publicly available csv files from GZH (https://data.galaxyzoo.org/#section-11) and saves for the utilized questions the number of volunteers who selected a certain answer.
 
 #### FITS_Creation_Hubble.ipynb
 Downloads the HST COSMOS FITS files and saves for every galaxy of GZH a 300x300px greyscale FITS file with 3xKron radius with the galaxy in the center.
