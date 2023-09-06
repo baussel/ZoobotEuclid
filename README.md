@@ -1,5 +1,5 @@
 ## Predicting detailed morphologies for Euclid
-Finetuning of the Zoobot CNN (https://github.com/mwalmsley/zoobot.git) to emulated Euclid VIS images (created from HST COSMOS images) to automatically predict detailed galaxy morphology. The labels to train Zoobot were volunteer classifications in the Galaxy Zoo: Hubble (GZH) (Willet et al. 2017, https://doi.org/10.1093/mnras/stw2568) citizen science project. This repository contains the code used in the paper "Euclid preparation. TBD. Predicting detailed morphologies for Euclid".
+Finetuning of the Zoobot CNN (https://github.com/mwalmsley/zoobot.git) to emulated Euclid VIS images (created from HST COSMOS images) to automatically predict detailed galaxy morphology. The labels to train Zoobot were volunteer classifications in the Galaxy Zoo: Hubble (GZH, Willet et al. 2017, https://doi.org/10.1093/mnras/stw2568) citizen science project. This repository contains the code used in the paper "Euclid preparation. TBD. Predicting detailed morphologies for Euclid".
 
 ## Description of the files
 
